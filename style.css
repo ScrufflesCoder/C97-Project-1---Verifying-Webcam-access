@@ -1,0 +1,67 @@
+.heading{
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    text-align: left;
+    background-color: white;
+}
+
+#img1{
+    height: 125px;
+}
+
+#div1{
+    background:linear-gradient(to bottom right, purple,  #d1c847, purple);
+    height: 330px;
+    width: 40%;
+    float: right;
+    padding: 30px;
+}
+.txt{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+#user_name{
+    width: 100%;
+}
+.a{
+    font-size: 20px;
+    color: yellow;
+}
+#div3{
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+    background: linear-gradient(to right, purple, #d1c847, purple);
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+#map{
+    height: 350px;
+    width: 40%;
+    float: right;
+}
+#div2{
+    height: 330px;
+    padding: 45px;
+}
+#introhead{
+    font-family: 'Protest Strike', sans-serif;
+    color:purple;
+
+}
+#introbody{
+    font-family: 'Josefin Sans', sans-serif;
+    color: yellow;
+}
+.reason{
+    width: 20%;
+    height: 50px;
+    color: yellow;
+    background-color: purple;
+}
+.reason:hover{
+    border-radius: 50%;
+}
